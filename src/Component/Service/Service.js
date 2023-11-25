@@ -23,7 +23,7 @@ export default function Service() {
                     </select>
 
                     <input type="text" placeholder="Name" required className="p-4 w-full xl:h-[70px] xl:w-[200px] rounded-xl shadow-lg lg:text-[21px]"></input>
-                    <input type="text" placeholder="Phone" required className="p-4 w-full xl:h-[70px] xl:w-[200px]  rounded-xl shadow-lg lg:text-[21px]"></input>
+                    <input type="number" placeholder="Phone" required className="p-4 w-full xl:h-[70px] xl:w-[200px]  rounded-xl shadow-lg lg:text-[21px]"></input>
                     <input type="text" placeholder="Email" required className="p-4 w-full xl:h-[70px] xl:w-[200px]  rounded-xl shadow-lg lg:text-[21px]"></input>
 
                     <div className=" xl:mb-2 ">
