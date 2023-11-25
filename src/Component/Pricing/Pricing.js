@@ -41,7 +41,7 @@ export default function Pricing() {
               <p className="flex items-center">Rodent Control</p>
             </div>
             <div className="flex items-center gap-2">
-              <FaCheck className="text-[20px] text-green-600" />
+            <FaTimes className="text-[20px] text-red-600" />
               <p className="flex items-center">Re-Service </p>
             </div>
             <div className="flex items-center gap-2">
@@ -145,11 +145,11 @@ export default function Pricing() {
               <p className="flex items-center">Re-Service </p>
             </div>
             <div className="flex items-center gap-2">
-              <FaTimes className="text-[20px] text-red-600" />
+            <FaCheck className="text-[20px] text-green-600" />
               <p className="flex items-center">Termite Control</p>
             </div>
             <div className="flex items-center gap-2">
-              <FaTimes className="text-[20px] text-red-600" />
+            <FaCheck className="text-[20px] text-green-600" />
               <p className="flex items-center">Mosquito Reduction</p>
             </div>
           </div>
