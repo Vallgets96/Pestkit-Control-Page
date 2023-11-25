@@ -106,7 +106,7 @@ export default function Pricing() {
           <div className="relative flex justify-center  items-center">
               <button class="group relative h-14 w-48 overflow-hidden  bg-black text-lg shadow-xl rounded-full">
                 <div class="absolute rounded-full inset-0 w-0 bg-[#FDF001] transition-all duration-[400ms] ease-out group-hover:w-full"></div>
-                <span class="relative text-[#FDF001] group-hover:text-black  group-hover:font-medium">LEARN MORE</span>
+                <span class="relative text-[#FDF001] group-hover:text-black  group-hover:font-medium">GET STARTED</span>
               </button>
         </div>
         </div>
